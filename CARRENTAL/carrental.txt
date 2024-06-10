@@ -1,0 +1,24 @@
+functional reqs :
+
+1 -> User must sign in
+2-> User able to see the car
+3-> User able to see the avaliable cars with the parameters of filters
+    - car type;
+    -location;
+    -time avaliable;
+4-> user able to book car
+5->payment Gateway
+7 -> user must recive a Notification after booking
+
+Actors -> user and Operator
+
+Entities -> car, user , Reserve , BookingSystem , Location  ,  Payment Gateway , Notification center
+
+// we wiol design car first 
+
+car -> type(enum) , numberplate , Chasisnumber ,  Location ,  Condition(enum) , state(enum)
+
+Location - name zip , lattitude ,longitude
+
+// second user
+ user - name , sex ,  PANID ,ADHARID ,LICENCE ID ,email , mobilenum ,Location

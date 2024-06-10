@@ -1,0 +1,18 @@
+ 4 -objects 
+
+ piece == "x" or "O"
+ piece heas chindren piecex and piece y "is a relationship"  and every piece has a piecetype enum x,0
+
+
+
+ Board - size , piece[][] borad=new piece[size][size] , "has piece"
+ constructor - (size) 
+ methods freecell_avaliable(), placea_piece(); pring board();
+
+
+ player  - name , id , numberof wins , ranking etc;  "has Piece"
+
+
+ Game - list of players "dequeue"  , Board  , "has players"  "has board";  
+      constructor - init player1 ,init player2 , GameBoard(3);
+      methods - startGame();

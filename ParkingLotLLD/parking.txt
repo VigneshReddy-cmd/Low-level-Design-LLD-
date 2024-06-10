@@ -1,0 +1,16 @@
+parkinglot{
+   // building with floors
+
+   List<Parkingfloors> parkingfloors;
+
+   // gates entry and exit
+   List<Entrance> extry;
+   List<Exit> exit;
+   Adress adress;
+  Strine name
+   // some APIS
+
+   isparkingAvaliable(Vechile vechile)
+   
+
+}
