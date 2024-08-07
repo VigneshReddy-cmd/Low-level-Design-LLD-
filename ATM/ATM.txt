@@ -1,0 +1,7 @@
+ReQurirements 
+
+1- swipe card
+2- checkBalance
+3- withdraw
+4-deposit cash and cheque
+5-transfer
