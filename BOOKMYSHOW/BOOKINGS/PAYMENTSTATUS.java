@@ -1,5 +1,0 @@
-package BOOKMYSHOW.BOOKINGS;
-
-public enum PAYMENTSTATUS {
-    PROCESS , DECLINED , SUCESS ;    
-}

@@ -1,0 +1,5 @@
+package BOOKMYSHOW.Cinema;
+
+public enum SEATTYPE {
+    DRESSCIRCLE , LOWERBALCONY , UPPERBALCONY , BOX , RECLINER;
+}
